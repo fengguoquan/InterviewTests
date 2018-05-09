@@ -3,26 +3,26 @@
 # a = lambda n : 1 if n==1 else a(n-1)+n
 # print a(4)
 
-# a)=[]
-# a.append([0,0])
-# print(a[0])
-# a[0]=1
-# print(a
+a=[]
+a.append([0,0])
+print(a[0])
+a[0]=1
+print(a
 
 
-# a = [[]]
-# a[0].append(2)
-# a[1].append(2)
-# a[2].append(2)
-# print(a)
+a = [[]]
+a[0].append(2)
+a[1].append(2)
+a[2].append(2)
+print(a)
 
 
-# for i in range(0, 10):
-#   map += [[]]
-#   for j in range(0, 20):
-#     map[i] += ['*']
-#
-# print(map)
+for i in range(0, 10):
+  map += [[]]
+  for j in range(0, 20):
+    map[i] += ['*']
+
+print(map)
 
 
 # map = [[1,2,3] for i in range(5)]
@@ -233,8 +233,8 @@ for i in range(2):
     print(a)
 print(a)
 
-# a= [i+3 for i in range(4)]
-# print(a)
+a= [i+3 for i in range(4)]
+print(a)
 
 
 
