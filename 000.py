@@ -16,7 +16,8 @@ a[1].append(2)
 a[2].append(2)
 print(a)
 
-
+# '''
+# qwertyuiop'''
 for i in range(0, 10):
   map += [[]]
   for j in range(0, 20):
